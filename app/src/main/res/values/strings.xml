@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tracker 19</string>
+    <string name="fontNew" tools:ignore="ReferenceType">@font/newfont</string>
+</resources>
